@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TekGeek2003
 - 👀 I’m interested in ... Coding, Drawing & Writing
-- 🌱 I’m currently learning ... Data Analytics with AI
+- 🌱 I’m currently learning ... Data Analytics with AI & Game Development with JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...she/her
