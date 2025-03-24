@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TekGeek2003
 - 👀 I’m interested in ... Coding, Drawing & Writing
 - 🌱 I’m currently learning ... Game Development with JavaScript & 
-JavaScript programm 
+JavaScript programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...she/her
