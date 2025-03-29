@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TekGeek2003
 - 👀 I’m interested in ... Coding, Drawing & Writing
-- 🌱 I’m currently learning ... JavaScript programming and Game Development with Phaser js
+- 🌱 I’m currently learning ... JavaScript programming and Game Development with Phaser JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...she/her
