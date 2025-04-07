@@ -5,7 +5,7 @@
 - 📫 How to reach me ...[
 ](https://www.facebook.com/vivian.sherron.5)
 
-😄 Pronouns: ...she/her
+  😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...It is my dream to be a Mobile & Video Game Developer
 
 <!---
