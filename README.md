@@ -2,8 +2,13 @@
 - 👀 I’m interested in ... Coding, Drawing & Writing
 - 🌱 I’m currently learning ... JavaScript programming and Game Development with Phaser 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...she/her
+- 📫 How to reach me ...[
+](https://www.instagram.com/tekgeek2003/)-
+[
+](https://www.facebook.com/vivian.sherron.5)
+[
+](https://x.com/TGeek200325663)
+😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...It is my dream to be a Mobile & Video Game Developer
 
 <!---
