@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @TekGeek2003
 - 👀 I’m interested in ... Coding, Drawing & Writing
-- 🌱 I’m currently learning ... JavaScript programming and Game Development with Phaser 
+- 🌱 I’m currently learning ... JavaScript programming and A-Frame (VR) Virtual Reality
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[
-](https://www.facebook.com/vivian.sherron.5)
+vsherron237@gmail.com]
 
   😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...It is my dream to be a Mobile & Video Game Developer
