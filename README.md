@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TekGeek2003
 - 👀 I’m interested in ... Coding, Drawing & Writing
-- 🌱 I’m currently learning ... JavaScript programming and A-Frame (VR) Virtual Reality
+- 🌱 I’m currently learning ... JavaScript programming and A-Frame (VR) Virtual Reality with HTML (HyperText Markup Language)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[
 vsherron237@gmail.com]
