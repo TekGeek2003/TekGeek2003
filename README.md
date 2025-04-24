@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TekGeek2003
 - 👀 I’m interested in ... Coding, Drawing & Writing
-- 🌱 I’m currently learning ... JavaScript programming 
+- 🌱 I’m currently learning ... JavaScript programming & Java Progamming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[
 vsherron237@gmail.com]
