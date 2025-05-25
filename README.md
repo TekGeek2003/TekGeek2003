@@ -6,7 +6,7 @@
 vsherron237@gmail.com]
 
   😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...It is my dream to be a Video Game & Mobile game developer
+- ⚡ Fun fact: ...It is my dream to be a game developer 
 
 <!---
 TekGeek2003/TekGeek2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
