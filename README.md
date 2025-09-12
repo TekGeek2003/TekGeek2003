@@ -5,7 +5,7 @@
 - 📫 How to reach me ...[
 vsherron237@gmail.com]
 
-  😄 Pronouns: ...she/her
+  😄 Pronouns: ...she/her/hers
 - ⚡ Fun fact: ...It is my dream to be a game developer 
 
 <!---
