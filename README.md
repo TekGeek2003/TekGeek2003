@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TekGeek
 - 👀 I’m interested in ... Coding, Drawing & Writing
-- 🌱 I’m currently learning ... C# (C-Sharp) Programming
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[
 vsherron237@gmail.com]
