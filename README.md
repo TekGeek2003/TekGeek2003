@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TekGeek
-- 👀 I’m interested in ... Programming, Drawing & Writing
+- 👀 I’m interested in ... Programming, Level Design, Drawing & Writing
 - 🌱 I’m currently learning ... C++ Programming, Python Game programming with the Pygame library 🎮 & 2D Level designing with the 2D level editor Tiled.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[
