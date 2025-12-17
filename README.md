@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TekGeek
 - 👀 I’m interested in ... Coding, Drawing & Writing
-- 🌱 I’m currently learning ... C++ Programming 
+- 🌱 I’m currently learning ... C++ Programming, Python Game Programming with the Pygame library 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[
 vsherron237@gmail.com]
