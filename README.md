@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TekGeek
 - 👀 I’m interested in ... Programming, Level Designing, Drawing & Writing
-- 🌱 I’m currently learning ... 2D Level designing with the 2D level editor Tiled & Go (Golang) programming
+- 🌱 I’m currently learning ... The Swift programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[
 vsherron237@gmail.com]
