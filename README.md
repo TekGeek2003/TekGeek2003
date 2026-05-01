@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TekGeek
 - 👀 I’m interested in ... Programming, Level Designing, Drawing & Writing
-- 🌱 I’m currently learning ... How to explore data with the Python programming language and Jupyter Notebook
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[
 vsherron237@gmail.com]
