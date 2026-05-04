@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TekGeek
 - 👀 I’m interested in ... Programming, Level Designing, Drawing & Writing
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... The PowerShell computer program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[
 vsherron237@gmail.com]
